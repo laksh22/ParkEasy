@@ -1,0 +1,3 @@
+class ParkEasyObserver {
+  void update() {}
+}
